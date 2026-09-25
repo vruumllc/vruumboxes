@@ -9,6 +9,7 @@ Cap Screws - 3mm x 4mm long, qty 4
 Cap Screws - 3mm x 8mm long, qty 2
 Flat Head Screws - 3mm x 8mm long, qty 8
 Small Cable Ties, qty 3
+Cyanoacrylate glue, for gluing programming button ring to programming button
 
 For optional debug_ports
 0.1" pitch straight headers, https://www.adafruit.com/product/392
