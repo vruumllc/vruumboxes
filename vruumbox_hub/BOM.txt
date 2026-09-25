@@ -4,12 +4,12 @@ Vilros Micro USB to USB 4 Port OTG Hub, https://vilros.com/products/vilros-micro
 StarTech.com 90 Degree Right Angle Micro-USB Type B, https://www.startech.com/en-us/cables/usbaub50cmra, [$10]
 Tough PLA filament (or other non-shrinking variety -- tolerences are very tight!), https://www.matterhackers.com/store/c/mh-build-series-tough-pla, [~$26/kg x2] 
 Plexiglass sheet - 6" x 5" x 1/8", https://www.tapplastics.com/product/plastics/cut_to_size_plastic/acrylic_sheets_clear/508, [$15/9] 
-Brass Heat-Set Inserts - M3 x 4.2mm OD x 4mm long, qty 10, https://www.adafruit.com/product/4255, [$6/50]
+Brass Heat-Set Inserts - M3 x 4.2mm OD x 4mm long, qty 14, https://www.adafruit.com/product/4255, [$6/50]
 Cap Screws - 3mm x 4mm long, qty 4
 Cap Screws - 3mm x 8mm long, qty 2
 Flat Head Screws - 3mm x 8mm long, qty 8
 Small Cable Ties, qty 3
-Cyanoacrylate glue, for gluing programming button ring to programming button
+Cyanoacrylate glue, for gluing programming button ring to programming button, and inlay into base bottom
 
 For optional debug_ports
 0.1" pitch straight headers, https://www.adafruit.com/product/392
