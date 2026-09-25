@@ -3,8 +3,8 @@
 
 #### vruumbox_hub directory: A case for the board and USB hub
 
-<img src="vruumbox_hub/images/vruumbox_hub_front.jpeg" align="left" width="380px"/>
+<img src="vruumbox_hub/images/vruumbox_hub_front.jpeg" align="left" width="395px"/>
 
-<img src="vruumbox_hub/images/vruumbox_hub_rear.jpeg" align="right" width="380px"/>
+<img src="vruumbox_hub/images/vruumbox_hub_rear.jpeg" align="right" width="395px"/>
 
 <br clear="right"/>
