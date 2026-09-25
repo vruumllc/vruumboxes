@@ -1,5 +1,5 @@
 # vruumboxes
-3D-Printed cases to protect and enhance your [vr65816]([https://picocomputer.github.io/](https://github.com/vruumllc/vr65816_PCB)
+3D-Printed cases to protect and enhance your [vr65816](https://github.com/vruumllc/vr65816_PCB)
 
 #### vruumbox directory: A case for the circuit board alone
 
