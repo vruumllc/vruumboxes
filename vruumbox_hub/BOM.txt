@@ -1,17 +1,23 @@
-Bill of Materials for rp6502_hub case:
+Bill of Materials for vruumbox_hub case:
 
-Vilros Micro USB to USB 4 Port OTG Hub, https://www.ebay.com/itm/313146204417, [$7]
-StarTech.com 1 ft / 30cm cable USB Type A (M) - 90 Degree Right Angle Micro-USB Type B, https://www.amazon.com/dp/B003YKX6WC/ref=dp_iou_view_item?ie=UTF8&th=1, [$7]
-PLA filament (or other non-shrinking variety -- tolerences are very tight!), [~$40/kg] 
-Plexiglass sheet - 150mm x 125mm x 3mm 
+Vilros Micro USB to USB 4 Port OTG Hub, https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero?pb=0, [$9]
+StarTech.com 90 Degree Right Angle Micro-USB Type B, https://www.startech.com/en-us/cables/usbaub50cmra, [$10]
+Tough PLA filament (or other non-shrinking variety -- tolerences are very tight!), https://www.matterhackers.com/store/c/mh-build-series-tough-pla, [~$26/kg x2] 
+Plexiglass sheet - 6" x 5" x 1/8", https://www.tapplastics.com/product/plastics/cut_to_size_plastic/acrylic_sheets_clear/508, [$15/9] 
 Brass Heat-Set Inserts - M3 x 4.2mm OD x 4mm long, qty 10, https://www.adafruit.com/product/4255, [$6/50]
 Cap Screws - 3mm x 4mm long, qty 4
 Cap Screws - 3mm x 8mm long, qty 2
 Flat Head Screws - 3mm x 8mm long, qty 8
-Nuts - 3mm, qty 4
-Small Cable Ties, qty 2
-Heat-Shrink Tubing
+Small Cable Ties, qty 3
+
+For optional debug_ports
+0.1" pitch straight headers, https://www.adafruit.com/product/392
+0.1" pitch right angle headers, https://www.adafruit.com/product/1540
+28 AWG (.3mm diameter) insulated wire
+1/16" diameter Heat-Shrink Tubing
+Small hot glue gun w/ glue stick
 
 Special Tools:
 Heat-Set Insert Soldering Iron Tip for M3 Inserts, https://www.adafruit.com/product/4239, [$10]
-Soldering Iron that takes Hakko-style tips, for above.
+Soldering Iron that takes Hakko-style tips, for above, https://www.adafruit.com/product/3685, [$20]
+
